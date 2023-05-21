@@ -1,1 +1,1 @@
-# MLopsZoomCampDTC
+# MLops ZoomCamp
