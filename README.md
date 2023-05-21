@@ -1,1 +1,1 @@
-# MLops ZoomCamp
+# Courses at DataTalk.club
